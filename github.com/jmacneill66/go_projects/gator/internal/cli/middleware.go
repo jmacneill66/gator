@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"gator/internal/database"
+	"github.com/jmacneill66/go_projects/gator/internal/database"
 )
 
 // middlewareLoggedIn ensures a user is logged in before executing a command.

@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"gator/internal/database"
+	"github.com/jmacneill66/go_projects/gator/internal/database"
 	"log"
 	"strconv"
 	"time"

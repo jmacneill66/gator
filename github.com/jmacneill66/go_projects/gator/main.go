@@ -10,9 +10,9 @@ import (
 	_ "github.com/lib/pq" // PostgreSQL driver
 	//"github.com/google/uuid"
 
-	"gator/internal/cli"
-	"gator/internal/config"
-	"gator/internal/database"
+	"github.com/jmacneill66/go_projects/gator/internal/cli"
+	"github.com/jmacneill66/go_projects/gator/internal/config"
+	"github.com/jmacneill66/go_projects/gator/internal/database"
 )
 
 func main() {

@@ -4,8 +4,8 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"gator/internal/database"
-	"gator/internal/rss"
+	"github.com/jmacneill66/go_projects/gator/internal/database"
+	"github.com/jmacneill66/go_projects/gator/internal/rss"
 	"log"
 	"time"
 

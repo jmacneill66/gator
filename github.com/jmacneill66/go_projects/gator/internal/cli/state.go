@@ -1,8 +1,8 @@
 package cli
 
 import (
-	"gator/internal/config"
-	"gator/internal/database"
+	"github.com/jmacneill66/go_projects/gator/internal/config"
+	"github.com/jmacneill66/go_projects/gator/internal/database"
 )
 
 // State struct holds a pointer to the Config.
